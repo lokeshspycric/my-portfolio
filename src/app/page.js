@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Main Landing Section */}
       <div className="flex flex-col justify-center items-center min-h-screen bg-gradient-to-r from-indigo-500 to-purple-600">
-        <h1 className="text-5xl font-bold text-white mb-4">Hi, I'm [Your Name]</h1>
+        <h1 className="text-5xl font-bold text-white mb-4">Hi, I&apos;m [Your Name]</h1>
         <p className="text-xl text-white">A Passionate Developer & Analyst 🚀</p>
       </div>
 
