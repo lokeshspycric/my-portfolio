@@ -4,6 +4,10 @@ export default function Navbar() {
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
+        <a href="/Lokesh_Resume.pdf" download className="bg-green-500 text-white p-2 rounded">
+  Download Resume
+</a>
+
       </nav>
     )
   }
