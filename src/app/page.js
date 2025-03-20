@@ -7,8 +7,8 @@ export default function Home() {
 
       {/* Main Landing Section */}
       <div className="flex flex-col justify-center items-center min-h-screen bg-gradient-to-r from-indigo-500 to-purple-600">
-        <h1 className="text-5xl font-bold text-white mb-4">Hi, I&apos;m [Your Name]</h1>
-        <p className="text-xl text-white">A Passionate Developer & Analyst 🚀</p>
+        <h1 className="text-5xl font-bold text-white mb-4">Hi, I'm Lokesh</h1>
+        <p className="text-xl text-white">A Passionate DevOps Engineer & Data Analyst 🚀</p>
       </div>
 
       {/* About Section */}
@@ -39,8 +39,8 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="p-10 bg-white text-black text-center">
         <h2 className="text-3xl font-bold mb-2">Contact Me</h2>
-        <p>Email: yourname@example.com</p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank" className="text-blue-500">Visit Profile</a></p>
+        <p>Email: lokeshdumpa95@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/lokesh-reddy-dumpa/" target="_blank" className="text-blue-500">Visit Profile</a></p>
       </section>
     </>
   )
