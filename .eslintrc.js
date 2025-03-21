@@ -4,4 +4,3 @@ module.exports = {
       'react/no-unescaped-entities': 'off',
     },
   }
-  
