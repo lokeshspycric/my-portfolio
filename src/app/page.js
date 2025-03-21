@@ -7,14 +7,14 @@ export default function Home() {
 
       {/* Main Landing Section */}
       <div className="flex flex-col justify-center items-center min-h-screen bg-gradient-to-r from-indigo-500 to-purple-600">
-        <h1 className="text-5xl font-bold text-white mb-4">Hi, I&apos;m Lokesh</h1>
+        <h1 className="text-5xl font-bold text-white mb-4">Hi, I'm [Lokesh]</h1>
         <p className="text-xl text-white">A Passionate DevOps Engineer & Data Analyst 🚀</p>
       </div>
 
       {/* About Section */}
       <section id="about" className="p-10 bg-white text-black text-center">
         <h2 className="text-3xl font-bold mb-2">About Me</h2>
-        <p>I am a software developer skilled in Python, AWS, Power BI, SQL, DevOps, and AI/ML.</p>
+        <p>I am a software developer skilled in Python, AWS, Power BI, SQL, Terraform, Docker, Kubernetes, Jenkins, Gitlab, Github, ReactJS, HTML, CSS, JavaScript, SonarQube and AI/ML.</p>
       </section>
 
       {/* Projects Section */}
