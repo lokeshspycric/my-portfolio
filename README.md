@@ -1,13 +1,13 @@
 # Multimodal Authentication System Using Face and Voice Data
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 This project presents a multimodal biometric authentication system that integrates face and voice data through feature-level fusion. It improves upon unimodal systems by leveraging the complementary strengths of both modalities. The system uses machine learning classifiers—SVM, Random Forest, and kNN—and addresses class imbalance using SMOTE.
 
 ---
 
-# 🔍 Research Questions
+# Research Questions
 
 1. How does feature-level fusion affect authentication performance?
 2. What is the impact of SMOTE on class balancing?
@@ -27,7 +27,7 @@ This project presents a multimodal biometric authentication system that integrat
 
  ---
 
-#  Datasets
+# Datasets
 
 - Face: [Caltech Face Dataset](http://www.vision.caltech.edu/Image_Datasets/faces/)
 - Voice: [AudioMNIST Dataset](https://github.com/soerenab/AudioMNIST)
@@ -40,7 +40,7 @@ VOICE_DATA_DIR = "<path_to_voice_dataset>"
 
 ---
 
-# ⚙️ Requirements
+# Requirements
 
 Install dependencies with:
 
